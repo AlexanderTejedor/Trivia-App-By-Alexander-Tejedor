@@ -84,7 +84,7 @@ Esta es una aplicación de trivia desarrollada en React Native utilizando React 
 
 ## Créditos
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Jimmy Alexander Tejedor Romero.
 
 ---
 
